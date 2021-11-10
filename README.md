@@ -6,12 +6,12 @@
 支持6种BypassUac的方式:Eventvwr, Fodhelper, Computerdefaults, Sdclt, Slui, DiskCleanup计划任务
 
 ## 适用版本
-Eventvwr : 适用Windows vista, Windows 7, Windows 8, Windows 8.1, Windows 10(win10 Update preview build 15007 修复)
-Fodhelper : 适用win10
-Computerdefaults : 适用win10 
-Sdclt : 适用win7或更高版本
-Slui : 适用win8-10(Windows 10 20H1(19041) 修复)
-DiskCleanup : 适用win10和win8
+Eventvwr : 适用Windows vista, Windows 7, Windows 8, Windows 8.1, Windows 10(win10 Update preview build 15007 修复)  
+Fodhelper : 适用win10  
+Computerdefaults : 适用win10   
+Sdclt : 适用win7或更高版本  
+Slui : 适用win8-10(Windows 10 20H1(19041) 修复)  
+DiskCleanup : 适用win10和win8  
 
 ## 使用
 RegistryByuac.exe -h
